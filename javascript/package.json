@@ -1,0 +1,21 @@
+{
+  "name": "evaluator",
+  "version": "1.0.0",
+  "description": "Chennai Diversity Drive",
+  "main": "runner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chennai",
+    "Diversity",
+    "Drive"
+  ],
+  "author": "Siddarth Kalyankar",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "fs-extra": "^8.1.0",
+    "json-format": "^1.0.1"
+  }
+}
